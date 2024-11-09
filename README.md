@@ -1,3 +1,6 @@
+# Debido al gran tamaño de los ficheros, y la cantidad que hay, dejaré los ficheros en un link para su visualización/descarga.
+# Enlace a los ficheros: https://drive.google.com/drive/folders/1_3pdtGWnVjmSJMYBiUbld6FZhLi65OBZ?usp=sharing
+
 # Proyecto: Configuración Docker con MySQL, Nginx, PHP, Redis, Grafana, Prometheus, cAdvisor, Elasticsearch y Kibana
 
 Este proyecto es una configuración avanzada de Docker para un entorno de desarrollo y monitoreo. Incluye los siguientes servicios:
